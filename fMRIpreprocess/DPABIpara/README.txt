@@ -1,0 +1,2 @@
+The preprocessing of rawdata is done by the matlab package named DPABI. The parameter setting is based on file "collecting data.xlsx".
+The file "bni.mat" gives a sample of the parameter setting, and only the parameters in "collecting data.xlsx" need  changes according to their sites.
