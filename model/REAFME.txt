@@ -1,0 +1,5 @@
+The file "cnnsvm.py" contains the model for classification using SVM and the code for calculating shapley values.
+The file "cnnrf.py" contains the model for classification using random forest.
+The file "cnnlr.py" contains the model for classification using linear regression.
+The file "cnnmlp.py" contains the model for classification using multi-layer  perception.
+The files "finmerged_file.csv" and "resultcvsprocess.py" are the predicting samples of CNN-SVM model and the analysis process separately.
