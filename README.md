@@ -37,5 +37,9 @@ Folder "model" gives the codes for the model mentioned in the article.
 
 ****
 ## License 
+This project is licensed under the MIT license.
 
+****
+## Others
+The codes included in this project is related to article titled "A hybrid CNN-SVM model for enhanced autism diagnosis".
 
